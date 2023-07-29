@@ -1,4 +1,4 @@
-# 红蓝共定位分析python script
+# 红蓝共定位分析
 
 需要首先安装python 然后安装python的库依赖
 ## 依赖
